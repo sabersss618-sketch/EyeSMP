@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Stalking On EyeSMP",     // this is what people actually see
+        state: "Stalking On Transcended Network",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
